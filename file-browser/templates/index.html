@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} - File Browser</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+    <!-- 侧边栏 -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <h1 class="logo">
+                <i class="fas fa-folder-tree"></i>
+                <span>File Browser</span>
+            </h1>
+            <button class="btn-icon" id="toggleSidebar" title="Toggle Sidebar">
+                <i class="fas fa-bars"></i>
+            </button>
+        </div>
+        
+        <div class="sidebar-content">
+            <!-- 快速导航 -->
+            <div class="nav-section">
+                <h3>Quick Access</h3>
+                <ul class="nav-list">
+                    <li><a href="#" data-path="" class="nav-item"><i class="fas fa-home"></i> Home</a></li>
+                </ul>
+            </div>
+            
+            <!-- 目录树 -->
+            <div class="nav-section">
+                <h3>Directories</h3>
+                <div id="directoryTree" class="directory-tree">
+                    <!-- 目录树将由 JS 动态加载 -->
+                </div>
+            </div>
+        </div>
+        
+        <div class="sidebar-footer">
+            <button class="btn-icon" id="toggleTheme" title="Toggle Theme">
+                <i class="fas fa-moon"></i>
+            </button>
+            <span class="version">v1.0</span>
+        </div>
+    </aside>
+
+    <!-- 主内容区 -->
+    <main class="main-content">
+        <!-- 工具栏 -->
+        <header class="toolbar">
+            <div class="toolbar-left">
+                <!-- 面包屑 -->
+                <nav class="breadcrumb" id="breadcrumb">
+                    <a href="#" data-path="" class="breadcrumb-item"><i class="fas fa-home"></i></a>
+                </nav>
+            </div>
+            
+            <div class="toolbar-center">
+                <!-- 路径输入框 -->
+                <div class="path-input-wrapper">
+                    <i class="fas fa-folder"></i>
+                    <input type="text" id="pathInput" class="path-input" placeholder="Enter path...">
+                    <button class="btn-icon" id="goPath" title="Go"><i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+            
+            <div class="toolbar-right">
+                <!-- 搜索 -->
+                <div class="search-wrapper">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="searchInput" class="search-input" placeholder="Search files...">
+                </div>
+                
+                <!-- 操作按钮 -->
+                <div class="toolbar-actions">
+                    <button class="btn btn-primary" id="uploadBtn" title="Upload">
+                        <i class="fas fa-upload"></i>
+                        <span>Upload</span>
+                    </button>
+                    <button class="btn" id="newFolderBtn" title="New Folder">
+                        <i class="fas fa-folder-plus"></i>
+                    </button>
+                    <button class="btn" id="refreshBtn" title="Refresh">
+                        <i class="fas fa-sync-alt"></i>
+                    </button>
+                    <button class="btn" id="viewToggleBtn" title="Toggle View">
+                        <i class="fas fa-th-large"></i>
+                    </button>
+                    <button class="btn" id="iconSizeBtn" title="Toggle Icon Size">
+                        <i class="fas fa-expand"></i>
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <!-- 统计信息 -->
+        <div class="stats-bar" id="statsBar">
+            <span id="statsInfo"></span>
+        </div>
+
+        <!-- 文件列表 -->
+        <div class="file-container">
+            <div class="file-grid" id="fileGrid">
+                <!-- 文件列表将由 JS 动态加载 -->
+            </div>
+        </div>
+
+        <!-- 分页栏 -->
+        <div class="pagination-bar" id="paginationBar" style="display: none;">
+            <div class="pagination-pages" id="paginationPages"></div>
+            <div class="pagination-size">
+                <span>每页</span>
+                <select id="pageSizeSelect">
+                    <option value="10">10</option>
+                    <option value="20" selected>20</option>
+                    <option value="50">50</option>
+                    <option value="100">100</option>
+                    <option value="200">200</option>
+                </select>
+                <span>条</span>
+            </div>
+            <div class="pagination-info" id="paginationInfo"></div>
+        </div>
+    </main>
+
+    <!-- 图片预览模态框 -->
+    <div class="modal" id="imageModal">
+        <div class="modal-overlay"></div>
+        <div class="modal-content image-viewer">
+            <button class="btn-icon modal-close" id="closeImageModal"><i class="fas fa-times"></i></button>
+            <button class="btn-icon nav-prev" id="prevImage"><i class="fas fa-chevron-left"></i></button>
+            <button class="btn-icon nav-next" id="nextImage"><i class="fas fa-chevron-right"></i></button>
+            <div class="image-container">
+                <img id="previewImage" src="" alt="Preview">
+            </div>
+            <div class="image-info" id="imageInfo">
+                <span class="image-name"></span>
+                <span class="image-counter"></span>
+            </div>
+            <div class="image-actions">
+                <button class="btn" id="downloadImage"><i class="fas fa-download"></i> Download</button>
+                <button class="btn" id="copyImageBtn"><i class="fas fa-copy"></i> Copy</button>
+                <button class="btn" id="moveImageBtn"><i class="fas fa-arrows-alt"></i> Move</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 文档预览模态框 -->
+    <div class="modal" id="docModal">
+        <div class="modal-overlay"></div>
+        <div class="modal-content doc-viewer">
+            <div class="modal-header">
+                <h3 id="docTitle">Document Preview</h3>
+                <button class="btn-icon modal-close" id="closeDocModal"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="doc-container" id="docContainer">
+                <!-- 文档内容将在这里显示 -->
+            </div>
+            <div class="modal-footer">
+                <button class="btn" id="downloadDoc"><i class="fas fa-download"></i> Download</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 目录选择器模态框 -->
+    <div class="modal" id="dirPickerModal">
+        <div class="modal-overlay"></div>
+        <div class="modal-content dir-picker">
+            <div class="modal-header">
+                <h3 id="dirPickerTitle">Select Destination</h3>
+                <button class="btn-icon modal-close" id="closeDirPicker"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="dir-picker-content">
+                <div class="path-input-wrapper">
+                    <input type="text" id="destPathInput" class="path-input" placeholder="Enter path or select below...">
+                </div>
+                <div class="dir-breadcrumb" id="dirPickerBreadcrumb"></div>
+                <div class="dir-list" id="dirPickerList">
+                    <!-- 目录列表 -->
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn" id="cancelDirPicker">Cancel</button>
+                <button class="btn btn-primary" id="confirmDirPicker">Confirm</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 新建文件夹模态框 -->
+    <div class="modal" id="newFolderModal">
+        <div class="modal-overlay"></div>
+        <div class="modal-content small-modal">
+            <div class="modal-header">
+                <h3>New Folder</h3>
+                <button class="btn-icon modal-close" id="closeNewFolder"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <input type="text" id="newFolderName" class="form-input" placeholder="Folder name...">
+            </div>
+            <div class="modal-footer">
+                <button class="btn" id="cancelNewFolder">Cancel</button>
+                <button class="btn btn-primary" id="confirmNewFolder">Create</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 上下文菜单 -->
+    <div class="context-menu" id="contextMenu">
+        <ul>
+            <li data-action="preview"><i class="fas fa-eye"></i> Preview</li>
+            <li data-action="download"><i class="fas fa-download"></i> Download</li>
+            <li class="divider"></li>
+            <li data-action="copy"><i class="fas fa-copy"></i> Copy to...</li>
+            <li data-action="move"><i class="fas fa-arrows-alt"></i> Move to...</li>
+            <li class="divider"></li>
+            <li data-action="trash" class="danger"><i class="fas fa-trash"></i> Move to Trash</li>
+        </ul>
+    </div>
+
+    <!-- Toast 通知 -->
+    <div class="toast-container" id="toastContainer"></div>
+
+    <!-- 隐藏的上传表单 -->
+    <input type="file" id="fileUpload" multiple hidden>
+
+    <!-- 拖放上传提示 -->
+    <div class="drop-zone" id="dropZone">
+        <div class="drop-zone-content">
+            <i class="fas fa-cloud-upload-alt"></i>
+            <p>Drop files here to upload</p>
+        </div>
+    </div>
+
+    <script src="/static/js/app.js"></script>
+    <script src="/static/js/preview.js"></script>
+    <script src="/static/js/file-ops.js"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+[Unit]
+Description=File Browser - Web-based file manager
+After=network.target
+
+[Service]
+Type=simple
+User=root
+Group=root
+WorkingDirectory=/data/zhh/file-browser
+Environment="FILE_BROWSER_ROOT=/data/"
+Environment="FILE_BROWSER_HOST=0.0.0.0"
+Environment="FILE_BROWSER_PORT=8625"
+ExecStart=/root/miniconda3/envs/file-browser/bin/python main.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

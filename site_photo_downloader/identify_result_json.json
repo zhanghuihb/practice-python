@@ -1,0 +1,1752 @@
+{
+    "complete": 1,
+    "reportUniqueKey": "2033389793981542404",
+    "ocrResultData": [
+        {
+            "imgName": "image_02_0006.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390077126610944&userId=999&shareType=1",
+            "userFileId": "2033390077126610944",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料",
+            "docNameLabel": null,
+            "imageSortId": "6",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 7,
+            "imgKey": "e4cde54996ca2ec66c6747d3a958d9a4a377aed6e0bfbab27c097333ab8ad487",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390077126610944.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390077126610944&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+            "provinceCode": "00",
+            "shape": [
+                1562,
+                1104,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "other"
+                ],
+                "file_code": "02",
+                "img_code": "0006",
+                "one_label_name": "certificate",
+                "label_name": "business_license",
+                "score": 1
+            },
+            "categoryId": null,
+            "category": "business_license",
+            "score": 1,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false,
+                "name": "悦田卫生用品（浙江）有限公司",
+                "type": "有限责任公司（港澳台投资、非独资）",
+                "legalRepresentative": "周平",
+                "approvalDate": "2023年01月05日"
+            },
+            "accuracy": null
+        },
+        {
+            "imgName": "image_02_0007.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390077789310977&userId=999&shareType=1",
+            "userFileId": "2033390077789310977",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料",
+            "docNameLabel": null,
+            "imageSortId": "7",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 8,
+            "imgKey": "2dec085f54e8a513252d0fb6bc9fb718265c5726122d87b929af40c79e740a02",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390077789310977.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390077789310977&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+            "provinceCode": "00",
+            "shape": [
+                1562,
+                1104,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "other"
+                ],
+                "file_code": "02",
+                "img_code": "0007",
+                "one_label_name": "other",
+                "label_name": "other",
+                "score": 1
+            },
+            "categoryId": null,
+            "category": "other",
+            "score": 1,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false
+            }
+        },
+        {
+            "imgName": "image_02_0008.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390078456205312&userId=999&shareType=1",
+            "userFileId": "2033390078456205312",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料",
+            "docNameLabel": null,
+            "imageSortId": "8",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 9,
+            "imgKey": "14ab6e6510df14117a58e4ba259203b840245624e834fcb87a95ac0b9122d725",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390078456205312.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390078456205312&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+            "provinceCode": "00",
+            "shape": [
+                1562,
+                1104,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "other"
+                ],
+                "file_code": "02",
+                "img_code": "0008",
+                "one_label_name": "other",
+                "label_name": "other",
+                "score": 0.998
+            },
+            "categoryId": null,
+            "category": "other",
+            "score": 0.998,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false
+            }
+        },
+        {
+            "imgName": "image_02_0009.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390079156654080&userId=999&shareType=1",
+            "userFileId": "2033390079156654080",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料",
+            "docNameLabel": null,
+            "imageSortId": "9",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 10,
+            "imgKey": "19a915d3f485305be45b279b7e8379f5bdfed9bcbbc7e09f4a3f4f8cfe2f287f",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390079156654080.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390079156654080&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+            "provinceCode": "00",
+            "shape": [
+                1250,
+                1250,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "other"
+                ],
+                "file_code": "02",
+                "img_code": "0009",
+                "one_label_name": "other",
+                "label_name": "other"
+            },
+            "categoryId": null,
+            "category": "other",
+            "score": null,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false
+            }
+        },
+        {
+            "imgName": "image_02_0010.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390080238784512&userId=999&shareType=1",
+            "userFileId": "2033390080238784512",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料",
+            "docNameLabel": null,
+            "imageSortId": "10",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 11,
+            "imgKey": "cd8f8193aae6ff1b7a1a55060bbc0e9b61fc0a31c16ccd1fafd98e21bc6cb929",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390080238784512.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390080238784512&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+            "provinceCode": "00",
+            "shape": [
+                1562,
+                1102,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "other"
+                ],
+                "file_code": "02",
+                "img_code": "0010",
+                "one_label_name": "other",
+                "label_name": "other",
+                "score": 0.797
+            },
+            "categoryId": null,
+            "category": "other",
+            "score": 0.797,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false
+            }
+        },
+        {
+            "imgName": "image_02_0011.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390080796626944&userId=999&shareType=1",
+            "userFileId": "2033390080796626944",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料",
+            "docNameLabel": null,
+            "imageSortId": "11",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 12,
+            "imgKey": "be15bd3a9ee97790ea548b5acd2c8942945be298835b3f3c7b17d8d8e5c59bad",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390080796626944.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390080796626944&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+            "provinceCode": "00",
+            "shape": [
+                1562,
+                1102,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "other"
+                ],
+                "file_code": "02",
+                "img_code": "0011",
+                "one_label_name": "other",
+                "label_name": "other",
+                "score": 0.403
+            },
+            "categoryId": null,
+            "category": "other",
+            "score": 0.403,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false
+            }
+        },
+        {
+            "imgName": "image_02_0012.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390081459326976&userId=999&shareType=1",
+            "userFileId": "2033390081459326976",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料",
+            "docNameLabel": null,
+            "imageSortId": "12",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 13,
+            "imgKey": "3cd9a7646720607d1826e8aa6d609a1a1e69cb27317542e371cefbbbe7702439",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390081459326976.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390081459326976&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+            "provinceCode": "00",
+            "shape": [
+                1562,
+                1102,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "other"
+                ],
+                "file_code": "02",
+                "img_code": "0012",
+                "one_label_name": "other",
+                "label_name": "other",
+                "score": 0.967
+            },
+            "categoryId": null,
+            "category": "other",
+            "score": 0.967,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false
+            }
+        },
+        {
+            "imgName": "image_02_0013.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390082159775744&userId=999&shareType=1",
+            "userFileId": "2033390082159775744",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料",
+            "docNameLabel": null,
+            "imageSortId": "13",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 14,
+            "imgKey": "437b02d83fa3348b01f38b8e2310baa78d28caafedf5b796e7f41908e54f77d9",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390082159775744.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390082159775744&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+            "provinceCode": "00",
+            "shape": [
+                1562,
+                1102,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "other"
+                ],
+                "file_code": "02",
+                "img_code": "0013",
+                "one_label_name": "other",
+                "label_name": "other",
+                "score": 0.854
+            },
+            "categoryId": null,
+            "category": "other",
+            "score": 0.854,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false
+            }
+        },
+        {
+            "imgName": "image_02_0014.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390082998636544&userId=999&shareType=1",
+            "userFileId": "2033390082998636544",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料",
+            "docNameLabel": null,
+            "imageSortId": "14",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 15,
+            "imgKey": "a3dd380dd690f33e35aa3289389880c033ed4da1c4cb3867a08096096a9fc619",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390082998636544.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390082998636544&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+            "provinceCode": "00",
+            "shape": [
+                1562,
+                1102,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "other"
+                ],
+                "file_code": "02",
+                "img_code": "0014",
+                "one_label_name": "other",
+                "label_name": "other",
+                "score": 0.936
+            },
+            "categoryId": null,
+            "category": "other",
+            "score": 0.936,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false
+            }
+        },
+        {
+            "imgName": "image_02_0015.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390083942354944&userId=999&shareType=1",
+            "userFileId": "2033390083942354944",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料",
+            "docNameLabel": null,
+            "imageSortId": "15",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 16,
+            "imgKey": "f67d4bfb09c3ed6ad209fc55cd2e0840599462d98cec6a1c34a2336cfbba150a",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390083942354944.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390083942354944&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+            "provinceCode": "00",
+            "shape": [
+                1562,
+                1102,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "other"
+                ],
+                "file_code": "02",
+                "img_code": "0015",
+                "one_label_name": "other",
+                "label_name": "other",
+                "score": 0.998
+            },
+            "categoryId": null,
+            "category": "other",
+            "score": 0.998,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false
+            }
+        },
+        {
+            "imgName": "image_02_0016.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390084676358144&userId=999&shareType=1",
+            "userFileId": "2033390084676358144",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料",
+            "docNameLabel": null,
+            "imageSortId": "16",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 17,
+            "imgKey": "270aaa4148e209c3370320471508ea62626a3fe6b94c945af023a7f462791d58",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390084676358144.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390084676358144&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+            "provinceCode": "00",
+            "shape": [
+                1562,
+                1102,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "other"
+                ],
+                "file_code": "02",
+                "img_code": "0016",
+                "one_label_name": "other",
+                "label_name": "other",
+                "score": 0.935
+            },
+            "categoryId": null,
+            "category": "other",
+            "score": 0.935,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false
+            }
+        },
+        {
+            "imgName": "image_02_0017.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390085515218944&userId=999&shareType=1",
+            "userFileId": "2033390085515218944",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料",
+            "docNameLabel": null,
+            "imageSortId": "17",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 18,
+            "imgKey": "30d769472ce52748257b56075ed4aac87fa7ea39cb53ff26315518379a9e969c",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390085515218944.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390085515218944&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+            "provinceCode": "00",
+            "shape": [
+                875,
+                1238,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "other"
+                ],
+                "file_code": "02",
+                "img_code": "0017",
+                "one_label_name": "ticket",
+                "label_name": "central_unified",
+                "score": 1
+            },
+            "categoryId": null,
+            "category": "central_unified",
+            "score": 1,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false,
+                "billCode": "00010225",
+                "payerUniScID": "L330521196306275211",
+                "payer": "德清县自然资源和规划局",
+                "billNumber": "3305013733",
+                "checkCode": "21e05d",
+                "invoiceDate": "2025年12月23日",
+                "totalAmount": "人民币贰佰壹拾贰万肆仟叁佰元整",
+                "lowerTotalAmount": "2,124,300.00"
+            },
+            "accuracy": null
+        },
+        {
+            "imgName": "image_02_0018.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390086039506944&userId=999&shareType=1",
+            "userFileId": "2033390086039506944",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料",
+            "docNameLabel": null,
+            "imageSortId": "18",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 19,
+            "imgKey": "59c0a1e406e888b3313330b7e1b9bd2fa0fb71f2a427a9a9684acf0ade0d35a5",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390086039506944.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390086039506944&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+            "provinceCode": "00",
+            "shape": [
+                875,
+                1238,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "other"
+                ],
+                "file_code": "02",
+                "img_code": "0018",
+                "one_label_name": "ticket",
+                "label_name": "central_unified",
+                "score": 1
+            },
+            "categoryId": null,
+            "category": "central_unified",
+            "score": 1,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false,
+                "billCode": "00010225",
+                "payerUniScID": "91330521MAC7GMHXA",
+                "payer": "悦田卫生用品（浙江）有限公司",
+                "billNumber": "3305013788",
+                "checkCode": "9ef055",
+                "invoiceDate": "2025年12月24日",
+                "totalAmount": "人民币捌佰肆拾玖万柒仟叁佰元整",
+                "lowerTotalAmount": "￥8,497,300.00"
+            },
+            "accuracy": null
+        },
+        {
+            "imgName": "image_04_0022.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390090372222976&userId=999&shareType=1",
+            "userFileId": "2033390090372222976",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+                {
+                    "labelName": "项目照片",
+                    "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+                    "showLabelName": "equipment_in_place_photo"
+                },
+                {
+                    "labelName": "项目照片",
+                    "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+                    "showLabelName": "site_construction_photos"
+                }
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+            "docNameLabel": null,
+            "imageSortId": "22",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 23,
+            "imgKey": "fddea29e08e54d733d80cc025ab5932e6f09ddbab69a18ceb3c02263ab1c8189",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390090372222976.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390090372222976&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片.docx",
+            "provinceCode": "00",
+            "shape": [
+                688,
+                1221,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "site_photo"
+                ],
+                "one_label_name": "YOLO",
+                "label_name": "site_construction_photos",
+                "score": 1
+            },
+            "categoryId": null,
+            "category": "site_construction_photos",
+            "score": 1,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false,
+                "projectName": "",
+                "longitude": "120.246131",
+                "latitude": "030.525325",
+                "shootingTime": "2026-01-12",
+                "isConstruction": {
+                    "isConstructionSite": false,
+                    "keyEvidence": "图片中没有显示任何施工痕迹，如重型机械、建筑材料、临时结构与设施、人员与装备、地形与工程状态等。"
+                },
+                "timeList": [
+                    "2026-01-12"
+                ],
+                "portalFrame": [
+                    {
+                        "point": [
+                            306.1075134277344,
+                            16.385831832885742,
+                            907.0501708984375,
+                            685.249267578125
+                        ],
+                        "score": "0.94",
+                        "label_ids": 9,
+                        "label_name": "signboard"
+                    },
+                    {
+                        "point": [
+                            916.839599609375,
+                            35.542442321777344,
+                            1220.755859375,
+                            670.0264892578125
+                        ],
+                        "score": "0.93",
+                        "label_ids": 9,
+                        "label_name": "signboard"
+                    },
+                    {
+                        "point": [
+                            0,
+                            2.7762491703033447,
+                            286.4771728515625,
+                            674.2904663085938
+                        ],
+                        "score": "0.36",
+                        "label_ids": 9,
+                        "label_name": "signboard"
+                    }
+                ],
+                "person": [
+
+                ],
+                "vehicle": [
+
+                ],
+                "helmet": [
+
+                ],
+                "pileDriver": [
+
+                ],
+                "steelFrame": [
+
+                ],
+                "cementFrame": [
+
+                ]
+            },
+            "accuracy": null
+        },
+        {
+            "imgName": "image_04_0023.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390091630514176&userId=999&shareType=1",
+            "userFileId": "2033390091630514176",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+                {
+                    "labelName": "项目照片",
+                    "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+                    "showLabelName": "equipment_in_place_photo"
+                },
+                {
+                    "labelName": "项目照片",
+                    "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+                    "showLabelName": "site_construction_photos"
+                }
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+            "docNameLabel": null,
+            "imageSortId": "23",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 24,
+            "imgKey": "567169a32841eb17438822a9a5ea24ac8e3622c766731ca5418fc9c7f8129e37",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390091630514176.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390091630514176&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片.docx",
+            "provinceCode": "00",
+            "shape": [
+                688,
+                1221,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "site_photo"
+                ],
+                "one_label_name": "YOLO",
+                "label_name": "site_construction_photos",
+                "score": 1
+            },
+            "categoryId": null,
+            "category": "site_construction_photos",
+            "score": 1,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false,
+                "projectName": "浙江蓝宝建设有限公司",
+                "longitude": "120.246251°E",
+                "latitude": "030.525261N",
+                "shootingTime": "2026-01-09",
+                "isConstruction": {
+                    "isConstructionSite": true,
+                    "keyEvidence": "图片中包含多个施工相关的标识牌，如安全施工牌、文明施工牌、十项安全技术措施牌等，表明这是一个施工现场。"
+                },
+                "timeList": [
+                    "2026-01-09"
+                ],
+                "portalFrame": [
+                    {
+                        "point": [
+                            60.77239990234375,
+                            6.619355201721191,
+                            1217.3912353515625,
+                            645.8345947265625
+                        ],
+                        "score": "0.93",
+                        "label_ids": 9,
+                        "label_name": "signboard"
+                    }
+                ],
+                "person": [
+
+                ],
+                "vehicle": [
+
+                ],
+                "helmet": [
+
+                ],
+                "pileDriver": [
+
+                ],
+                "steelFrame": [
+
+                ],
+                "cementFrame": [
+
+                ]
+            },
+            "accuracy": null
+        },
+        {
+            "imgName": "image_04_0024.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390092821696512&userId=999&shareType=1",
+            "userFileId": "2033390092821696512",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+                {
+                    "labelName": "项目照片",
+                    "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+                    "showLabelName": "equipment_in_place_photo"
+                },
+                {
+                    "labelName": "项目照片",
+                    "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+                    "showLabelName": "site_construction_photos"
+                }
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+            "docNameLabel": null,
+            "imageSortId": "24",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 25,
+            "imgKey": "db57164d1980d25f4eb857f1e8e908832b9fdfc631896bc8d7cc26fb7a84b21f",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390092821696512.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390092821696512&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片.docx",
+            "provinceCode": "00",
+            "shape": [
+                688,
+                1221,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "site_photo"
+                ],
+                "one_label_name": "YOLO",
+                "label_name": "site_construction_photos",
+                "score": 1
+            },
+            "categoryId": null,
+            "category": "site_construction_photos",
+            "score": 1,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false,
+                "projectName": "",
+                "longitude": "120.2464367",
+                "latitude": "039.525263",
+                "shootingTime": "2026-01-12 13:59:39",
+                "isConstruction": {
+                    "isConstructionSite": true,
+                    "keyEvidence": "图片中有施工人员头戴安全帽，周围有施工设备和材料堆放，显示这是一个施工现场。"
+                },
+                "timeList": [
+                    "2026-01-12 13:59:39"
+                ],
+                "person": [
+                    {
+                        "point": [
+                            424.57769775390625,
+                            229.89793395996094,
+                            686.2869262695312,
+                            684.117431640625
+                        ],
+                        "score": "0.94",
+                        "label_ids": 6,
+                        "label_name": "person"
+                    },
+                    {
+                        "point": [
+                            1038.7359619140625,
+                            317.0595397949219,
+                            1053.768310546875,
+                            355.45440673828125
+                        ],
+                        "score": "0.74",
+                        "label_ids": 6,
+                        "label_name": "person"
+                    }
+                ],
+                "vehicle": [
+                    {
+                        "point": [
+                            192.31773376464844,
+                            298.5778503417969,
+                            346.01885986328125,
+                            388.9085388183594
+                        ],
+                        "score": "0.75",
+                        "label_ids": 11,
+                        "label_name": "vehicle"
+                    },
+                    {
+                        "point": [
+                            101.3732681274414,
+                            300.71478271484375,
+                            345.7920837402344,
+                            392.5613098144531
+                        ],
+                        "score": "0.40",
+                        "label_ids": 11,
+                        "label_name": "vehicle"
+                    }
+                ],
+                "helmet": [
+                    {
+                        "point": [
+                            492.8418884277344,
+                            230.23049926757812,
+                            617.215087890625,
+                            310.7796936035156
+                        ],
+                        "score": "0.81",
+                        "label_ids": 4,
+                        "label_name": "helmet"
+                    }
+                ],
+                "pileDriver": [
+
+                ],
+                "steelFrame": [
+
+                ],
+                "cementFrame": [
+
+                ]
+            },
+            "accuracy": null
+        },
+        {
+            "imgName": "image_04_0025.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390093517950976&userId=999&shareType=1",
+            "userFileId": "2033390093517950976",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+                {
+                    "labelName": "项目照片",
+                    "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+                    "showLabelName": "equipment_in_place_photo"
+                },
+                {
+                    "labelName": "项目照片",
+                    "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+                    "showLabelName": "site_construction_photos"
+                }
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+            "docNameLabel": null,
+            "imageSortId": "25",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 26,
+            "imgKey": "963df1a40dca7a27d99349097daef459282932c2c5e587a5ffee9dbdb2533a5e",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390093517950976.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390093517950976&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片.docx",
+            "provinceCode": "00",
+            "shape": [
+                688,
+                1221,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "site_photo"
+                ],
+                "one_label_name": "YOLO",
+                "label_name": "site_construction_photos",
+                "score": 1
+            },
+            "categoryId": null,
+            "category": "site_construction_photos",
+            "score": 1,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false,
+                "projectName": "",
+                "longitude": "120.246524",
+                "latitude": "030.525164",
+                "shootingTime": "2026-01-12",
+                "isConstruction": {
+                    "isConstructionSite": true,
+                    "keyEvidence": "图片中有挖掘机、脚手架、施工人员和开挖的基坑，表明这是一个施工现场。"
+                },
+                "timeList": [
+                    "2026-01-12"
+                ],
+                "person": [
+                    {
+                        "point": [
+                            51.29796600341797,
+                            254.64337158203125,
+                            160.8118896484375,
+                            406.3639221191406
+                        ],
+                        "score": "0.86",
+                        "label_ids": 6,
+                        "label_name": "person"
+                    }
+                ],
+                "vehicle": [
+                    {
+                        "point": [
+                            616.016845703125,
+                            124.79585266113281,
+                            702.729736328125,
+                            231.77096557617188
+                        ],
+                        "score": "0.88",
+                        "label_ids": 11,
+                        "label_name": "vehicle"
+                    },
+                    {
+                        "point": [
+                            276.3831787109375,
+                            142.6367950439453,
+                            565.6912841796875,
+                            240.3162078857422
+                        ],
+                        "score": "0.83",
+                        "label_ids": 11,
+                        "label_name": "vehicle"
+                    },
+                    {
+                        "point": [
+                            760.8920288085938,
+                            148.2969207763672,
+                            884.7507934570312,
+                            211.72813415527344
+                        ],
+                        "score": "0.67",
+                        "label_ids": 11,
+                        "label_name": "vehicle"
+                    }
+                ],
+                "helmet": [
+                    {
+                        "point": [
+                            94.77446746826172,
+                            255.33560180664062,
+                            125.39517211914062,
+                            285.17596435546875
+                        ],
+                        "score": "0.74",
+                        "label_ids": 4,
+                        "label_name": "helmet"
+                    }
+                ],
+                "pileDriver": [
+
+                ],
+                "steelFrame": [
+
+                ],
+                "cementFrame": [
+
+                ]
+            },
+            "accuracy": null
+        },
+        {
+            "imgName": "image_04_0026.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390094566526976&userId=999&shareType=1",
+            "userFileId": "2033390094566526976",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+                {
+                    "labelName": "项目照片",
+                    "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+                    "showLabelName": "equipment_in_place_photo"
+                },
+                {
+                    "labelName": "项目照片",
+                    "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+                    "showLabelName": "site_construction_photos"
+                }
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+            "docNameLabel": null,
+            "imageSortId": "26",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 27,
+            "imgKey": "42dea86353dec19216d924a00bb6311fbfecf7478ba6b35b2e38af4b197813f9",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390094566526976.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390094566526976&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片.docx",
+            "provinceCode": "00",
+            "shape": [
+                688,
+                1221,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "site_photo"
+                ],
+                "one_label_name": "YOLO",
+                "label_name": "site_construction_photos",
+                "score": 1
+            },
+            "categoryId": null,
+            "category": "site_construction_photos",
+            "score": 1,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false,
+                "projectName": "",
+                "longitude": "120.246686",
+                "latitude": "030.525406",
+                "shootingTime": "2026-01-12",
+                "isConstruction": {
+                    "isConstructionSite": true,
+                    "keyEvidence": "图片中有脚手架、开挖的基坑、施工人员以及挖掘机等施工痕迹。"
+                },
+                "timeList": [
+                    "2026-01-12"
+                ],
+                "person": [
+                    {
+                        "point": [
+                            385.26654052734375,
+                            45.7572135925293,
+                            428.5667419433594,
+                            167.90135192871094
+                        ],
+                        "score": "0.86",
+                        "label_ids": 6,
+                        "label_name": "person"
+                    },
+                    {
+                        "point": [
+                            435.9488525390625,
+                            11.658061027526855,
+                            462.2318115234375,
+                            78.36153411865234
+                        ],
+                        "score": "0.84",
+                        "label_ids": 6,
+                        "label_name": "person"
+                    }
+                ],
+                "vehicle": [
+                    {
+                        "point": [
+                            673.0965576171875,
+                            0,
+                            891.8320922851562,
+                            118.28758239746094
+                        ],
+                        "score": "0.84",
+                        "label_ids": 11,
+                        "label_name": "vehicle"
+                    }
+                ],
+                "helmet": [
+                    {
+                        "point": [
+                            390.46563720703125,
+                            44.72476577758789,
+                            414.5963439941406,
+                            64.45343017578125
+                        ],
+                        "score": "0.68",
+                        "label_ids": 4,
+                        "label_name": "helmet"
+                    },
+                    {
+                        "point": [
+                            441.3569030761719,
+                            11.290404319763184,
+                            455.50201416015625,
+                            24.919025421142578
+                        ],
+                        "score": "0.55",
+                        "label_ids": 4,
+                        "label_name": "helmet"
+                    },
+                    {
+                        "point": [
+                            367.9587097167969,
+                            6.623929023742676,
+                            384.3866882324219,
+                            20.364402770996094
+                        ],
+                        "score": "0.54",
+                        "label_ids": 4,
+                        "label_name": "helmet"
+                    }
+                ],
+                "pileDriver": [
+
+                ],
+                "steelFrame": [
+
+                ],
+                "cementFrame": [
+
+                ]
+            },
+            "accuracy": null
+        },
+        {
+            "imgName": "image_04_0027.jpeg",
+            "imgUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390095820623872&userId=999&shareType=1",
+            "userFileId": "2033390095820623872",
+            "savePath": "/投资项目入库材料/202603_MM/00/XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+            "code": "01",
+            "imageLabel": [
+                {
+                    "labelName": "项目照片",
+                    "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+                    "showLabelName": "equipment_in_place_photo"
+                },
+                {
+                    "labelName": "项目照片",
+                    "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+                    "showLabelName": "site_construction_photos"
+                }
+            ],
+            "docName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片",
+            "docNameLabel": null,
+            "imageSortId": "27",
+            "isSinglePurchase": "2",
+            "businessType": "1",
+            "specialCode": "01",
+            "sort_id": 28,
+            "imgKey": "4ffedee6ff9cad1d9a9985ee59d055b2dce3d8d096b7585d4d8931cdb39d554c",
+            "img_old_path": "/data/ocr/abd0184f-067d-41dc-91ff-e958b21e9508/2033390095820623872.jpeg",
+            "imgOldUrl": "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390095820623872&userId=999&shareType=1",
+            "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片.docx",
+            "provinceCode": "00",
+            "shape": [
+                688,
+                1221,
+                3
+            ],
+            "prediction": {
+                "filename_label_name": [
+                    "site_photo"
+                ],
+                "one_label_name": "YOLO",
+                "label_name": "site_construction_photos",
+                "score": 1
+            },
+            "categoryId": null,
+            "category": "site_construction_photos",
+            "score": 1,
+            "is_face": null,
+            "is_first": null,
+            "ocrResult": {
+                "isPs": false,
+                "projectName": "",
+                "longitude": "120.247236",
+                "latitude": "030.525348",
+                "shootingTime": "2026-01-12",
+                "isConstruction": {
+                    "isConstructionSite": true,
+                    "keyEvidence": "图片中有挖掘机、脚手架、施工人员和开挖的基坑，表明这是一个施工现场。"
+                },
+                "timeList": [
+                    "2026-01-12"
+                ],
+                "person": [
+                    {
+                        "point": [
+                            499.3519592285156,
+                            382.3771057128906,
+                            522.7537231445312,
+                            426.52099609375
+                        ],
+                        "score": "0.84",
+                        "label_ids": 6,
+                        "label_name": "person"
+                    },
+                    {
+                        "point": [
+                            564.3338623046875,
+                            370.61529541015625,
+                            577.7493286132812,
+                            404.75762939453125
+                        ],
+                        "score": "0.65",
+                        "label_ids": 6,
+                        "label_name": "person"
+                    }
+                ],
+                "vehicle": [
+                    {
+                        "point": [
+                            72.25315856933594,
+                            321.2461242675781,
+                            285.95648193359375,
+                            432.82147216796875
+                        ],
+                        "score": "0.87",
+                        "label_ids": 11,
+                        "label_name": "vehicle"
+                    },
+                    {
+                        "point": [
+                            532.3345947265625,
+                            321.63519287109375,
+                            690.6102905273438,
+                            423.5574951171875
+                        ],
+                        "score": "0.66",
+                        "label_ids": 11,
+                        "label_name": "vehicle"
+                    }
+                ],
+                "helmet": [
+
+                ],
+                "pileDriver": [
+
+                ],
+                "steelFrame": [
+
+                ],
+                "cementFrame": [
+
+                ]
+            },
+            "accuracy": null
+        },
+        {
+            "imgName": [
+                "image_01_0000.jpeg",
+                "image_01_0001.jpeg",
+                "image_01_0002.jpeg",
+                "image_01_0003.jpeg",
+                "image_01_0004.jpeg",
+                "image_01_0005.jpeg"
+            ],
+            "is_face": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "is_first": [
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+            ],
+            "imgUrl": [
+                "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390071816622080&userId=999&shareType=1",
+                "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390072689037312&userId=999&shareType=1",
+                "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390073842470912&userId=999&shareType=1",
+                "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390075029458944&userId=999&shareType=1",
+                "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390075939622912&userId=999&shareType=1",
+                "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390076497465344&userId=999&shareType=1"
+            ],
+            "userFileId": [
+                "2033390071816622080",
+                "2033390072689037312",
+                "2033390073842470912",
+                "2033390075029458944",
+                "2033390075939622912",
+                "2033390076497465344"
+            ],
+            "cIds": [
+                "506b4879-8114-4246-8cfa-8b96926977c0",
+                "506b4879-8114-4246-8cfa-8b96926977c0",
+                "506b4879-8114-4246-8cfa-8b96926977c0",
+                "506b4879-8114-4246-8cfa-8b96926977c0",
+                "506b4879-8114-4246-8cfa-8b96926977c0",
+                "506b4879-8114-4246-8cfa-8b96926977c0"
+            ],
+            "imageLabel": [
+                [
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "construction_contract"
+                    },
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "equipment_procurement_contract"
+                    },
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "house_sale_contract"
+                    }
+                ],
+                [
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "construction_contract"
+                    },
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "equipment_procurement_contract"
+                    },
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "house_sale_contract"
+                    }
+                ],
+                [
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "construction_contract"
+                    },
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "equipment_procurement_contract"
+                    },
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "house_sale_contract"
+                    }
+                ],
+                [
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "construction_contract"
+                    },
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "equipment_procurement_contract"
+                    },
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "house_sale_contract"
+                    }
+                ],
+                [
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "construction_contract"
+                    },
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "equipment_procurement_contract"
+                    },
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "house_sale_contract"
+                    }
+                ],
+                [
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "construction_contract"
+                    },
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "equipment_procurement_contract"
+                    },
+                    {
+                        "labelName": "项目合同",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同",
+                        "showLabelName": "house_sale_contract"
+                    }
+                ]
+            ],
+            "category": "construction_contract",
+            "prediction": {
+                "filename_label_name": [
+                    "contract"
+                ]
+            },
+            "accuracy": "0.78",
+            "sort_id": 1,
+            "ocrResult": {
+                "contractNumber": "",
+                "projectName": "悦田卫生用品（浙江）有限公司年产1000万箱个人卫生健康护理用品研发、智能制造基建项目厂房工程",
+                "contractAmount": "98390000元",
+                "projectPaymentMethod": "以合同为准。",
+                "plannedStartDate": "2025年10月10日",
+                "plannedCompletionDate": "2027年1月3日",
+                "duration": "450天",
+                "contractorName": "浙江蓝宝建设有限公司",
+                "employerName": "悦田卫生用品（浙江）有限公司",
+                "ownerUnit": "",
+                "thirdParty": "",
+                "signingDate": "2025年10月10日",
+                "constructionSite": "德清县禹越镇杨禹线与新五公路交叉口禹越镇（2025）010地块红线内。",
+                "contractAmountWords": "玖仟捌佰叁拾玖万元整",
+                "unitList": [
+                    "悦田卫生用品（浙江）有限公司",
+                    "浙江蓝宝建设有限公司"
+                ],
+                "seal": [
+                    {
+                        "point": [
+                            214.4373016357422,
+                            161.51544189453125,
+                            456.02178955078125,
+                            400.7123718261719
+                        ],
+                        "score": "0.87",
+                        "label_ids": 1,
+                        "label_name": "seal",
+                        "text": "悦田卫生用品（浙江）有限公司",
+                        "text_score": 0.9994062781333923
+                    },
+                    {
+                        "point": [
+                            594.1190795898438,
+                            268.3031921386719,
+                            834.8528442382812,
+                            504.97332763671875
+                        ],
+                        "score": "0.86",
+                        "label_ids": 1,
+                        "label_name": "seal",
+                        "text": "浙江蓝宝建设有限公司",
+                        "text_score": 0.9999790787696838
+                    }
+                ],
+                "sign": [
+                    {
+                        "point": [
+                            768.1853637695312,
+                            419.5157165527344,
+                            933.9652099609375,
+                            511.1889953613281
+                        ],
+                        "score": "0.66",
+                        "label_ids": 2,
+                        "label_name": "sign",
+                        "text": "中国",
+                        "text_score": 0.6320887207984924
+                    },
+                    {
+                        "point": [
+                            260.1593933105469,
+                            415.42755126953125,
+                            407.13470458984375,
+                            535.91748046875
+                        ],
+                        "score": "0.59",
+                        "label_ids": 2,
+                        "label_name": "sign",
+                        "text": "一",
+                        "text_score": 0.9202772378921509
+                    }
+                ],
+                "isPs": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            }
+        },
+        {
+            "imgName": [
+                "image_03_0019.jpeg",
+                "image_03_0020.jpeg",
+                "image_03_0021.jpeg"
+            ],
+            "imgUrl": [
+                "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390087054528512&userId=999&shareType=1",
+                "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390088451231745&userId=999&shareType=1",
+                "http://192.168.30.34:30015/top_repository/outer/downloadFile?userFileId=2033390089675968513&userId=999&shareType=1"
+            ],
+            "userFileId": [
+                "2033390087054528512",
+                "2033390088451231745",
+                "2033390089675968513"
+            ],
+            "category": "document_filing",
+            "prediction": {
+                "filename_label_name": [
+                    "project_approval_documents"
+                ]
+            },
+            "imageLabel": [
+                [
+                    {
+                        "labelName": "批文",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目批文",
+                        "showLabelName": "document_filing"
+                    },
+                    {
+                        "labelName": "批文",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目批文",
+                        "showLabelName": "project_approval_documents"
+                    }
+                ],
+                [
+                    {
+                        "labelName": "批文",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目批文",
+                        "showLabelName": "document_filing"
+                    },
+                    {
+                        "labelName": "批文",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目批文",
+                        "showLabelName": "project_approval_documents"
+                    }
+                ],
+                [
+                    {
+                        "labelName": "批文",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目批文",
+                        "showLabelName": "document_filing"
+                    },
+                    {
+                        "labelName": "批文",
+                        "originalText": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目批文",
+                        "showLabelName": "project_approval_documents"
+                    }
+                ]
+            ],
+            "accuracy": null,
+            "sort_id": 20,
+            "ocrResult": {
+                "projectCode": "2503-330521-07-01-154240",
+                "projectName": "悦田卫生用品（浙江）有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+                "constructionPeriodInterest": "",
+                "exchangeRate": "7.2000（人民币/美元）",
+                "projectConstructionUnit": "悦田卫生用品（浙江）有限公司",
+                "constructionSite": "浙江省湖州市德清县禹越镇西港工业区",
+                "plannedTotalInvestment": "4443.0000（万美元）",
+                "filingTime": "2026年01月09日",
+                "nationalStandardIndustry": "卫生材料及医药用品制造（2770）",
+                "fixedAssetsTotalInvestment": "4166.7000万美元",
+                "plannedStartDate": "2025年09月",
+                "codingDate": "2025年03月19日",
+                "plannedCompletionDate": "2028年03月",
+                "fixedAssetsTotalInvestmentList": [
+                    "30000万元",
+                    "32000万元",
+                    "4166.7000",
+                    "4166.7000万美元",
+                    "4443.0000万美元",
+                    "277.0000万美元",
+                    "4443.0000",
+                    "4166.7000万美元",
+                    "4443.0000（万美元）"
+                ],
+                "constructionPeriod": "",
+                "isFixedAsset": "是",
+                "evidence": "根据提供的信息，该项目总投资为4443.0000万美元，其中固定资产投资为4166.7000万美元。此外，项目计划新增建筑面积75000平方米厂房，新增高自动化的卫生巾、护垫、失禁巾、乳垫、经期裤等各类生产线18条。这些都符合固定资产投资的标准，包括厂房建设、生产设备购置和安装等。因此，该项目属于固定资产投资。",
+                "timeList": [
+                    "2026年01月09日",
+                    "2025年05月13日",
+                    "2025年03月19日"
+                ],
+                "isPs": [
+                    false,
+                    false,
+                    false
+                ]
+            }
+        }
+    ],
+    "businessType": "1",
+    "unitCode": null,
+    "unitName": null,
+    "specialCode": "01",
+    "extJsonData": {
+        "unitType": "1",
+        "isSinglePurchase": "2",
+        "projectCode": "XAC7GMHHX330521601",
+        "provinceCode": "00",
+        "approvalType": "1",
+        "checkPeriod": "202603",
+        "batchNum": "1773632914169",
+        "provinceName": "国家局",
+        "projectName": "悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目",
+        "businessTag": "TZ-WH-01",
+        "taskCheckModeSign": "0",
+        "docFils": [
+            {
+                "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目合同.docx",
+                "fileUrl": "http://192.168.30.34:30014/top_repository/outer/downloadFile?userFileId=2033389882712231936&userId=999&shareType=1"
+            },
+            {
+                "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目其他材料.docx",
+                "fileUrl": "http://192.168.30.34:30014/top_repository/outer/downloadFile?userFileId=2033389883261685760&userId=999&shareType=1"
+            },
+            {
+                "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目批文.docx",
+                "fileUrl": "http://192.168.30.34:30014/top_repository/outer/downloadFile?userFileId=2033389884670971904&userId=999&shareType=1"
+            },
+            {
+                "fileName": "XAC7GMHHX330521601悦田卫生用品(浙江)有限公司年产1000万箱个人卫生健康护理用品研发、智能制造项目项目照片.docx",
+                "fileUrl": "http://192.168.30.34:30014/top_repository/outer/downloadFile?userFileId=2033389889074991104&userId=999&shareType=1"
+            }
+        ],
+        "businessType": "1",
+        "specialCode": "01"
+    },
+    "ocrCode": "00000",
+    "ocrErrMsg": "",
+    "ocrStartTime": "2026-03-16 14:01:32",
+    "ocrEndTime": "2026-03-16 14:04:09",
+    "ocrCost": "59.25168267497793"
+}
