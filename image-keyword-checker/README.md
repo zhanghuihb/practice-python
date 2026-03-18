@@ -1,56 +1,56 @@
+# Image Keyword Checker - 图片关键词检查服务
 
+> **一句话总结：** 基于 Flask 的 Web 服务，通过 OCR 识别目录下图片中的文字，检查是否包含指定关键词，输出未命中的图片列表。
+
+## 功能概述
+
+提供 REST API 接口，接收图片目录路径和关键词列表，自动扫描目录下的所有图片文件，调用 OCR 服务识别图片中的文字内容，检查是否包含指定关键词，返回未命中任何关键词的图片列表。
+
+## 核心特性
+
+- 🔍 自动扫描目录下的图片文件（支持 jpg、png、bmp、gif、tiff、webp 等格式）
+- 🤖 调用 OCR 服务识别图片中的文字
+- 🏷️ 支持自定义关键词列表进行匹配检查
+- 📋 返回未命中关键词的图片路径列表
+- 🐳 支持 Docker 部署
+- ❤️ 内置健康检查接口
+
+## API 接口
+
+### POST `/api/check_images` - 检查图片关键词
+
+```json
+{
+    "directory_path": "/path/to/images",
+    "keywords": ["发票", "收据", "合同"]
+}
+```
+
+### GET `/api/health` - 健康检查
 
 ## 安装依赖
-1. 创建 requirements.txt 文件
-```txt
-Flask>=2.0.0
-requests>=2.25.0
-```
-2. 安装依赖
-```txt
+
+```bash
 pip install -r requirements.txt
 ```
+
 ## 运行服务
+
 ```bash
-# 设置环境变量并运行
 export OCR_HOST="http://your-ocr-service:port"
 export HOST="0.0.0.0"
-export PORT=5000
-python your_script_name.py
-```
-## 调用API接口
-使用curl测试API
-```bash
-curl -X POST http://localhost:5000/api/check_images \
--H "Content-Type: application/json" \
--d '{
-"directory_path": "/path/to/your/images",
-"keywords": ["发票", "收据", "合同"]
-}'
+export PORT=8625
+python image-keyword-checker.py
 ```
 
-## Docker部署（可选）
-1. 创建 Dockerfile
-```dockerfile
-FROM python:3.9-slim
+## Docker 部署
 
-WORKDIR /app
-
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
-
-COPY . .
-
-ENV OCR_HOST=http://ocr-service:8080
-ENV HOST=0.0.0.0
-ENV PORT=5000
-
-EXPOSE 5000
-
-CMD ["python", "app.py"]
-```
-2. 构建和运行
 ```bash
 docker build -t image-keyword-checker .
-docker run -p 5000:5000 -e OCR_HOST=http://your-ocr-host image-keyword-checker
+docker run -p 8625:8625 -e OCR_HOST=http://your-ocr-host image-keyword-checker
 ```
+
+## 依赖
+
+- `Flask` - Web 框架
+- `requests` - HTTP 请求（调用 OCR 服务）
